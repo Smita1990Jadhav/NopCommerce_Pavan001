@@ -1,0 +1,66 @@
+2021-04-10 13:42:33,442 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-04-10 13:42:33,443 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-04-10 13:42:41,264 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-04-19 21:49:26,081 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-04-19 21:49:26,086 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-04-19 21:49:35,426 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-04-19 21:50:45,102 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-04-19 21:50:45,103 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-04-19 21:50:51,739 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-05-09 18:16:00,299 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-05-09 18:16:00,377 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-05-09 18:19:48,406 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-05-09 18:19:48,406 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-05-09 18:20:05,609 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-05-09 18:40:18,575 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-05-09 18:40:18,576 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-05-09 18:40:29,979 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-05-09 18:46:11,082 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-05-09 18:46:11,082 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-05-09 18:46:20,791 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-05-09 18:47:14,044 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-05-09 18:47:14,044 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-05-09 18:47:22,232 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-05-09 18:50:01,385 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-05-09 18:50:01,385 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-05-09 18:50:13,547 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-05-13 23:11:07,714 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:14:41,437 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:18:02,069 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:18:10,231 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:18:16,088 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:18:21,907 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:18:21,907 : Test_002_DDT_Login :INFO : ******* DDT Login test passed **********
+2021-05-13 23:18:22,457 : Test_002_DDT_Login :INFO : ******* End of Login DDT Test **********
+2021-05-13 23:18:22,457 : Test_002_DDT_Login :INFO : **************** Completed  TC_LoginDDT_002 ************* 
+2021-05-13 23:36:31,178 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:36:40,745 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:36:46,551 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:36:52,920 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-13 23:36:52,920 : Test_002_DDT_Login :INFO : ******* DDT Login test passed **********
+2021-05-13 23:36:53,093 : Test_002_DDT_Login :INFO : ******* End of Login DDT Test **********
+2021-05-13 23:36:53,093 : Test_002_DDT_Login :INFO : **************** Completed  TC_LoginDDT_002 ************* 
+2021-05-29 19:21:05,939 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-29 19:21:14,375 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-29 19:21:20,178 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-29 19:21:26,387 : Test_002_DDT_Login :INFO : **** passed ****
+2021-05-29 19:21:26,387 : Test_002_DDT_Login :INFO : ******* DDT Login test passed **********
+2021-05-29 19:21:26,689 : Test_002_DDT_Login :INFO : ******* End of Login DDT Test **********
+2021-05-29 19:21:26,690 : Test_002_DDT_Login :INFO : **************** Completed  TC_LoginDDT_002 ************* 
+2021-05-31 17:12:31,360 : Test_003_AddCutomer :INFO : ***********Test_003_AddCutomer*********
+2021-05-31 17:12:43,142 : Test_003_AddCutomer :INFO : *********Login Succesful*********
+2021-05-31 17:12:43,142 : Test_003_AddCutomer :INFO : *******Starting Add Customer Test*******
+2021-06-08 22:35:05,705 : Test_003_AddCutomer :INFO : ***********Test_003_AddCutomer*********
+2021-06-08 22:35:20,281 : Test_003_AddCutomer :INFO : *********Login Succesful*********
+2021-06-08 22:35:20,281 : Test_003_AddCutomer :INFO : *******Starting Add Customer Test*******
+2021-06-08 22:35:25,738 : Test_003_AddCutomer :INFO : *******Providing Customer Info********
+2021-06-08 22:35:27,749 : Test_001_Login :INFO : *******************Test_001_Login***********************
+2021-06-08 22:35:27,750 : Test_001_Login :INFO : ***************************Verifying Home Page Title***************************
+2021-06-08 22:35:36,034 : Test_001_Login :INFO : *********************Home Page title page Test pass**********************
+2021-06-08 22:36:08,570 : Test_002_DDT_Login :INFO : **** passed ****
+2021-06-08 22:36:16,869 : Test_002_DDT_Login :INFO : **** passed ****
+2021-06-08 22:36:22,752 : Test_002_DDT_Login :INFO : **** passed ****
+2021-06-08 22:36:28,584 : Test_002_DDT_Login :INFO : **** passed ****
+2021-06-08 22:36:28,584 : Test_002_DDT_Login :INFO : ******* DDT Login test passed **********
+2021-06-08 22:36:28,727 : Test_002_DDT_Login :INFO : ******* End of Login DDT Test **********
+2021-06-08 22:36:28,728 : Test_002_DDT_Login :INFO : **************** Completed  TC_LoginDDT_002 ************* 
